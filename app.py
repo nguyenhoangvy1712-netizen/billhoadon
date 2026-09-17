@@ -25,10 +25,12 @@ menu = {
        "Burger Gà": 65000,
        "Salad Trộn": 50000,
        "Bít tết Bò Mỹ": 250000,
-       "Sườn nướng BBQ": 180000,
-       "Cánh gà chiên mắm": 75000,
-       "Lẩu cá diêu hồng": 200000,
+       "Sườn nướng BBQ": 179000,
+       "Cánh gà chiên mắm": 49000,
+       "Lẩu cá diêu hồng": 199000,
        "Lẩu Thái hải sản": 300000,
+       "Lẩu rắn":169000,
+       "Lẩu hadilao":299000,
        "Lẩu cá kèo": 140000
    },
    "Thức uống": {
